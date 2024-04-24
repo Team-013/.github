@@ -78,17 +78,6 @@ GPT 모델은 토큰 수에 따라 가격이 책정되기 때문에, 영어를 �
   <tbody>
     <tr>
       <td>
-        <div>박혜림</div>
-      </td>
-      <td>
-        <div></div>
-      </td>
-      <td>
-        <div>2001</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/manyyeon">유다연</a>
       </td>
       <td>
@@ -107,6 +96,17 @@ GPT 모델은 토큰 수에 따라 가격이 책정되기 때문에, 영어를 �
       </td>
       <td>
         <div>2000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>박혜림</div>
+      </td>
+      <td>
+        <a href="efforthye@gmail.com">efforthye@gmail.com</a>
+      </td>
+      <td>
+        <div>2001</div>
       </td>
     </tr>
     <tr>
