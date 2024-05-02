@@ -89,10 +89,10 @@ GPT 모델은 토큰 수에 따라 가격이 책정되기 때문에, 영어를 �
     </tr>
     <tr>
       <td>
-        <div>이지석</div>
+        <a href="https://github.com/dev-jiseok">이지석</a>
       </td>
       <td>
-        <div></div>
+        <a href="leejiseok426@gmail.com">leejiseok426@gmail.com</a>
       </td>
       <td>
         <div>2000</div>
