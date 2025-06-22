@@ -127,6 +127,85 @@ GPT 모델은 토큰 수에 따라 가격이 책정되기 때문에, 영어를 �
 ### Hack for Public Good in Korea
 ### AI/Cloud Services For Government Productivity
 
+<p>해당 대회에서 수상하였고, 세종 정부 청사 <tr>
+    <td>
+      <img width="708" alt="image" src="https://github.com/Team-013/.github/assets/87538540/66435277-2998-410d-a4c8-82203200ecd3">
+    </td>
+    <td>
+      <img width="631" alt="image" src="https://github.com/Team-013/.github/assets/87538540/5ab668ec-156f-4127-8d71-3e222eaad6f4">
+    </td>
+  </tr>  
+</table>
+
+
+# 🛠️ 어떻게 구현했나요?
+<img width="935" alt="image" src="https://github.com/Team-013/.github/assets/87538540/3f2496be-0b8d-41ce-8c20-552347f6b27b">
+
+# 👋 TEAM013 소개
+안녕하세요, TEAM013입니다. 저희 팀명은 팀원들의 출생년도인 2000년, 2001년, 2003년에서 영감을 받아 지었습니다. Microsoft Gen AI 해커톤에서 'AI/Cloud Services For Government Productivity'를 주제로, 공무원들의 업무 생산성을 실질적으로 향상시킬 수 있는 방안을 모색해보았습니다. 이 과정에서 전자 정부 프레임워크의 문제점을 발견하고, 이를 해결하기 위해 "E프레임 마법사"라는 AI 챗봇 서비스를 개발했습니다. 이 서비스는 공무원들의 반복적인 업무를 줄이고 사용자에게 더 편리한 서비스를 제공함으로써 업무 생산성을 높이는 것을 목표로 하고 있습니다.
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Contact</th>
+      <th>Year of Birth</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/manyyeon">유다연</a>
+      </td>
+      <td>
+        <a href="manyyeon00@gmail.com">manyyeon00@gmail.com</a>
+      </td>
+      <td>
+        <div>2000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/dev-jiseok">이지석</a>
+      </td>
+      <td>
+        <a href="leejiseok426@gmail.com">leejiseok426@gmail.com</a>
+      </td>
+      <td>
+        <div>2000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/efforthye">박혜림</a>
+      </td>
+      <td>
+        <a href="efforthye@gmail.com">efforthye@gmail.com</a>
+      </td>
+      <td>
+        <div>2001</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>박민진</div>
+      </td>
+      <td>
+        <a href="parkmin030505@naver.com">parkmin030505@naver.com</a>
+      </td>
+      <td>
+        <div>2003</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# Microsoft Gen AI Hackathon 👋
+### Hack for Public Good in Korea
+### AI/Cloud Services For Government Productivity
+
+<p>해당 대회에서 수상하였고, 세종시에서 현직 공무원 약 500명을 대상으로 위 공공혁신 SW를 소개했습니다.</p>
+
 <img src="https://github.com/Team-013/.github/assets/87538540/22b0f89c-b79b-4e77-8bee-b2852a15e059" alt="microsoft GenAI hackathon" width="500"/>
 
 
